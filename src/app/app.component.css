@@ -1,0 +1,46 @@
+.caption {
+    font-size: 0.75rem;
+  }
+  
+  .body-1 {
+    font-size: 1rem;
+  }
+  
+  .color-warn {
+    color: #f44336;
+  }
+  
+  .image-upload-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-uploader {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-preview-action-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-preview-action {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-action {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .image-preview {
+    height: 5rem;
+    margin: 1rem 0;
+  }
+  
+  .image-preview img {
+    height: 100%;
+  }
+  
